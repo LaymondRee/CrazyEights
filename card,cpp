@@ -1,0 +1,21 @@
+/**************************************************
+ ** Program Filename: card.cpp
+ ** Author: Raymond Lee
+ ** Date: 4-25-2021
+ ** Description: Handles individual cards
+ ** Input: Value/Suit
+ ** Output: Card
+**************************************************/
+
+#include <iostream>
+#include "card.h"
+
+using namespace std;
+
+Card::Card(){
+
+}
+
+Card::~Card(){
+
+}
